@@ -12,7 +12,7 @@ Substitui todas as 94 vozes Piper TTS originais (33 femininas + 56 masculinas + 
 
 ## Instalacao
 
-1. Baixe o arquivo `SkyrimNet-PT-BR.zip` da [pagina de Releases](https://github.com/julianu37/SkyrimNet-PT-BR-Pach/releases)
+1. Baixe o arquivo `SkyrimNet-PT-BR.zip` do [Google Drive](https://drive.google.com/file/d/18R64_ucWedRO0epaMyG5PVvBL4YBA7x1/view?usp=sharing)
 2. No Mod Organizer 2, clique em **Install from file** (icone de disquete) e selecione o ZIP baixado
 3. Na lista de mods, coloque **SkyrimNet-PT-BR** **depois** (abaixo) de **SkyrimNet** na ordem
 
