@@ -2,6 +2,8 @@
 
 Pacote de vozes **portugues brasileiro** para o mod SkyrimNet no Skyrim SE.
 
+**Requer o mod original SkyrimNet instalado:** https://github.com/MinLL/SkyrimNet-GamePlugin
+
 Substitui todas as 94 vozes Piper TTS originais (33 femininas + 56 masculinas + 5 dragoes) por vozes PT-BR com mapeamento por genero. Tambem inclui um submodulo de prompt que faz a IA gerar as falas em portugues brasileiro.
 
 ## Requisitos
