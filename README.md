@@ -1,8 +1,8 @@
-# SkyrimNet PT-BR Patch
+# SkyrimNet PT-BR
 
 Pacote de vozes **portugues brasileiro** para o mod SkyrimNet no Skyrim SE.
 
-Substitui todas as 94 vozes Piper TTS originais por vozes PT-BR com mapeamento por genero.
+Substitui todas as 94 vozes Piper TTS originais (33 femininas + 56 masculinas + 5 dragoes) por vozes PT-BR com mapeamento por genero. Tambem inclui um submodulo de prompt que faz a IA gerar as falas em portugues brasileiro.
 
 ## Requisitos
 
@@ -13,11 +13,24 @@ Substitui todas as 94 vozes Piper TTS originais por vozes PT-BR com mapeamento p
 ## Instalacao
 
 1. Baixe o arquivo `SkyrimNet-PT-BR.zip` da [pagina de Releases](https://github.com/julianu37/SkyrimNet-PT-BR-Pach/releases)
-2. No Mod Organizer 2, clique no botao de discos (Install from file) e selecione o ZIP baixado
+2. No Mod Organizer 2, clique em **Install from file** (icone de disquete) e selecione o ZIP baixado
 3. Na lista de mods, coloque **SkyrimNet-PT-BR** **depois** (abaixo) de **SkyrimNet** na ordem
 4. Reinicie o Mod Organizer 2
 
-Pronto.
+Pronto. Ao entrar no jogo, as vozes estarao em portugues brasileiro.
+
+## Modelos utilizados
+
+| Voz | Origem |
+|-----|--------|
+| dii_pt-BR (feminina) | [OpenVoiceOS/pipertts_pt-BR_dii](https://huggingface.co/OpenVoiceOS/pipertts_pt-BR_dii) |
+| cadu | [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices) |
+| faber | [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices) |
+| jeff | [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices) |
+| edresson | [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices) |
+| miro | [csukuangfj/vits-piper-pt_BR-miro-high](https://huggingface.co/csukuangfj/vits-piper-pt_BR-miro-high) |
+| razo | [Lucasllfs/Razo-piper-voice](https://huggingface.co/Lucasllfs/Razo-piper-voice) |
+| tugao (PT-PT, dragoes) | [csukuangfj/vits-piper-pt_PT-tugao-medium](https://huggingface.co/csukuangfj/vits-piper-pt_PT-tugao-medium) |
 
 ## Creditos
 
