@@ -15,7 +15,6 @@ Substitui todas as 94 vozes Piper TTS originais (33 femininas + 56 masculinas + 
 1. Baixe o arquivo `SkyrimNet-PT-BR.zip` da [pagina de Releases](https://github.com/julianu37/SkyrimNet-PT-BR-Pach/releases)
 2. No Mod Organizer 2, clique em **Install from file** (icone de disquete) e selecione o ZIP baixado
 3. Na lista de mods, coloque **SkyrimNet-PT-BR** **depois** (abaixo) de **SkyrimNet** na ordem
-4. Reinicie o Mod Organizer 2
 
 Pronto. Ao entrar no jogo, as vozes estarao em portugues brasileiro.
 
