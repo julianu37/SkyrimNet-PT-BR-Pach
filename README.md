@@ -2,6 +2,8 @@
 
 Pacote de vozes **portugues brasileiro** para o mod SkyrimNet no Skyrim SE.
 
+[![Demonstração no YouTube](https://img.youtube.com/vi/XM1jFo98GOc/0.jpg)](https://www.youtube.com/watch?v=XM1jFo98GOc)
+
 **Requer o mod original SkyrimNet instalado:** https://github.com/MinLL/SkyrimNet-GamePlugin
 **Nao precisa instalar** o pacote opcional "Piper TTS Models" do SkyrimNet original — este mod ja inclui todas as vozes.
 
